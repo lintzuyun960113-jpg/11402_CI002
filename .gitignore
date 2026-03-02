@@ -39,3 +39,5 @@
 
 # debug information files
 *.dwo
+/.vs/11402_CI002/v17/Browse.VC.db
+/.vs
